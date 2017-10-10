@@ -1,0 +1,11 @@
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\bin\Debug\Meeting5_Task2.exe.config
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\bin\Debug\Meeting5_Task2.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\bin\Debug\Meeting5_Task2.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.InfoForm.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.Properties.Resources.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.csproj.CoreCompileInputs.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitHub\HW_WinForms_Dialogs_28.09.17\Meeting5_Task2\obj\Debug\Meeting5_Task2.MainForm.resources
